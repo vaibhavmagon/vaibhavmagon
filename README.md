@@ -1,7 +1,7 @@
 ### Hey there, I'm Vaibhav 👋
 
 
-<h2 align="center">Product engineering leader, entrepreneur, and full-stack specialist with experience in product development, management and scaling consumer products. Have shipped products to millions of users using first principles and built and led strong teams in companies from scratch.</h1>
+<h3 align="center">Product engineering leader, entrepreneur, and full-stack specialist with experience in product development, management and scaling consumer products. Have shipped products to millions of users using first principles and built and led strong teams in companies from scratch.</h3>
 
 <div align="center">
   
