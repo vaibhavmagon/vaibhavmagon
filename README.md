@@ -3,7 +3,7 @@
 
 #### Head Of Engineering, <a href="https://in.twinhealth.com">Twin</a>. Founder <a href="https://askmonk.ml">Askmonk</a> (exit). Ex Goibibo, Wooplr.</h3>
 
-##### Product engineering leader, entrepreneur, and full-stack specialist with experience in product development, management and scaling consumer products. Have shipped products to millions of users using first principles and built and led strong teams in companies from scratch.
+#### Product engineering leader, entrepreneur, and full-stack specialist with experience in product development, management and scaling consumer products. Have shipped products to millions of users using first principles and built and led strong teams in companies from scratch.
 
 <div>
   
