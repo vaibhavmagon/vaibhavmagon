@@ -1,4 +1,4 @@
-### Hey there, I'm Vaibhav 👋
+### Hey there, I'm <a href="https://vaibhavmagon.ml">Vaibhav</a> 👋
 
 
 ### Head Of Engineering, <a href="https://in.twinhealth.com">Twin</a>. Founder <a href="https://askmonk.ml">Askmonk</a> (exit). Ex Goibibo, Wooplr.</h3>
@@ -11,6 +11,7 @@
   ![vaibhavmagon's github stats](https://github-readme-stats.vercel.app/api?username=vaibhavmagon&show_icons=true&theme=dracula)
 </div>
 
+<!--
 <p align="left">
     <a href="https://www.linkedin.com/in/vaibhavmagon/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="vaibhavmagon" height="30" width="30" /></a>
   
@@ -20,7 +21,6 @@
     
 </p>
 
-<!--
 **vaibhavmagon/vaibhavmagon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
