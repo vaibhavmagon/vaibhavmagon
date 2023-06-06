@@ -1,4 +1,4 @@
-### Hey there, I'm <a href="https://vaibhavmagon.ml">Vaibhav</a> 👋
+### Hey there, I'm <a href="https://vaibhavmagon.github.io">Vaibhav</a> 👋
 
 
 ### Engineering Leader. Founder <a href="https://askmonk.ml">Askmonk</a> (exit). Ex Goibibo, <a href="https://in.twinhealth.com">Twin</a>.</h3>
