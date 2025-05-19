@@ -1,7 +1,7 @@
 ### Hey there, I'm <a href="https://vaibhavmagon.github.io">Vaibhav</a> 👋
 
 
-### Engineering Head <a href="https://cheq.one">CheQ</a>. Founder/CEO <a href="https://askmonk.ml">Askmonk</a> (exit). Ex Goibibo, <a href="https://in.twinhealth.com">Twin</a>.</h3>
+### VP of Engineering <a href="https://acko.tech">Acko</a>. Founder/CEO <a href="https://askmonk.ml">Askmonk</a> (exit). Ex Goibibo, <a href="https://cheq.one">CheQ</a>.</h3>
 
 #### Product engineering leader, entrepreneur, and full-stack specialist with experience in product development, management and scaling consumer products. Have shipped products to millions of users using first principles and built and led strong teams in companies from scratch.
 
